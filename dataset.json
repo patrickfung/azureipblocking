@@ -1,0 +1,16 @@
+{
+    "@odata.type": "#microsoft.graph.ipNamedLocation",
+    "displayName": "Blocked Access by IP Addresses",
+    "isTrusted": false,
+    "ipRanges": [
+        {
+            "@odata.type": "#microsoft.graph.iPv6CidrRange",
+            "cidrAddress": "10.10.11.11/32"
+        },
+        {
+            "@odata.type": "#microsoft.graph.iPv4CidrRange",
+            "cidrAddress": "10.10.10.10/32"
+        }
+ ]
+}
+       
