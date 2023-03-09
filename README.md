@@ -1,6 +1,6 @@
 # azureipblocking
 
-The program for blocking IP through updating on Azure AD's Named Location (i.e. work together with Conditional Access)
+The program for blocking IP through updating on Azure AD's Named Location by using Microsoft Graph API (i.e. work together with Conditional Access)
 
 Pre-process
 1. Create the new Application through App Registration on Azure AD
