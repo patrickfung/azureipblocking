@@ -1,6 +1,6 @@
 # azureipblocking
 
-The program for blocking IP through updating on Azure Tenant's Named Location
+The program for blocking IP through updating on Azure AD's Named Location (i.e. work together with Conditional Access)
 
 Pre-process
 1. Create the new Application through App Registration on Azure AD
