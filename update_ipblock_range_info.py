@@ -4,8 +4,8 @@ import requests
 import json
 
 # Enter the details of your AAD app registration
-client_id = 'Your Client ID'
-client_secret = 'Your Client Secret'
+client_id = '<Your Client ID>'
+client_secret = '<Your Client Secret>'
 authority = 'https://login.microsoftonline.com/<Tenant ID>'
 scope = ['https://graph.microsoft.com/.default']
 
