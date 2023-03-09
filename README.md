@@ -10,7 +10,7 @@ Pre-process
 4. Get the Name Location ID and preset the JSON Dataset (i.e. please refer to file dataset.json)
 
 Procedure
-1. You need have your IP information sourceip.txt (i.e. Can be multiple line, it will be processed one by one)
+1. You need to obtain your IP information sourceip.txt (i.e. Can be multiple line, it will be processed one by one)
 2. Run process_json.py for JSON pre-processing
 3. Run update_ipblock_range_info.py to update Azure AD's Named Location
 
