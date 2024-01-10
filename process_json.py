@@ -36,7 +36,7 @@ print(json_data['ipRanges'])
 
 jsonFile.close()
 
-#Read th file#
+#Read the file#
 
 myfile = open("sourceip.txt", "r")
 myline = myfile.readline()
